@@ -66,6 +66,6 @@ Your final report should include each of the following:
   * Item Price
   * Total Purchase Value
 
-As final considerations:
+### Copyright
 
-* You must include a written description of three observable trends based on the data.
+Coding Boot Camp © 2019. All Rights Reserved.
